@@ -1,0 +1,7 @@
+debug
+release
+web
+.idea/*
+*.cmake
+*.cmake.in
+.gitignore
